@@ -1,4 +1,4 @@
-# Character-slot-machine
+# Character slot machine
 
 ## A slot machine styled randomization for character creation
 
