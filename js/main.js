@@ -5,6 +5,7 @@ const slotMachineForm = document.getElementById('slot-machine-form');
 const slotMachineSelect = document.getElementById('slot-machine-items-select');
 
 const slotMachineList = {
+    age: [],
     creatureType: [],
     skinColor: [],
     hairColor: [],
